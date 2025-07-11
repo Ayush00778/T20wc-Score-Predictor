@@ -22,3 +22,5 @@ The T20 World Cup Score Prediction project aims to predict the total runs scored
 
 
 Dataset: https://www.kaggle.com/veeralakrishna/cricsheet-a-retrosheet-for-cricket?select=t20s
+<img width="765" height="588" alt="Screenshot 2025-07-11 110309" src="https://github.com/user-attachments/assets/69207bc8-c2d2-446b-9d57-de49fd247d6f" />
+
